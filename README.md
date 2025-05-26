@@ -8,7 +8,7 @@ This repository will be used to store assignment files for this class (CTI-110).
 * I love being outside! Right now I am really into gardening and have been doing a lot of landscaping/planting at my house. I also love hiking, camping, going to the pool and the lake.  
 	* Last weekend, my boyfriend and I camped at Shenandoah. We want to go to the Great Smoky Mountains and Acadia soon!  
 	* Last summer I went on a 6 week trip to the southwest. We visited 10 national parks.
-* I have a bachelors degree in geology and currently work in the environmental field. I eventually want to get my masters in water resources engineering.
+* I have a bachelors degree in geology from the University of Florida (go gators) and currently work in the environmental field. I eventually want to get my masters in water resources engineering.
 * I love to read
 * I am a big coffee drinker and my espresso machine is probably my favorite thing that I own
 * I like to cook and have been trying to get better at it.

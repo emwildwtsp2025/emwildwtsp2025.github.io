@@ -14,5 +14,5 @@ This repository will be used to store assignment files for this class (CTI-110).
 * I like to cook and have been trying to get better at it.
 
 ## Websites I recommend
-* [Goodreads](https://www.goodreads.com/) – I love Goodreads to chare//keep track of the books I read and also to get recommendations and see what my friends are reading.
-* [Reddit] (https://www.reddit.com/) – I honestly use Reddit for everything, it’s so helpful when I have a question about, really anything.
+* [Goodreads](https://www.goodreads.com/) – I love Goodreads to share/keep track of the books I read and also to get recommendations and see what my friends are reading.
+* [Reddit](https://www.reddit.com/) – I honestly use Reddit for everything, it’s so helpful when I have a question about, really anything.

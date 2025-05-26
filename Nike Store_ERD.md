@@ -1,8 +1,7 @@
 ```mermaid
 erDiagram
-	direction TB
-	PRODUCT ||--||{CUSTOMER : ships
-	CUSTOMER ||--|{PRODUCT : purchases
-	SALE ||--| {INVENTORY : decreases
-	INVENTORY |--| {PRODUCT : holds
+	PRODUCT ||--||{ CUSTOMER : ships
+	CUSTOMER ||--|{ PRODUCT : purchases
+	SALE ||--| { INVENTORY : decreases
+	INVENTORY |--| { PRODUCT : holds
 ```

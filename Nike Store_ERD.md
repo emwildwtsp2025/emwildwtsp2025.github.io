@@ -1,14 +1,12 @@
 ```mermaid
 erDiagram
-    CAR ||--o{ NAMED-DRIVER : allows
-    PERSON }o..o{ NAMED-DRIVER : is
-```
-
-
-```mermaid
-erDiagram
 	PRODUCT ||--o{ CUSTOMER : ships
+	PRODUCT {
+	string shoes PK
+	string socks PK
+	string clothes PK
+	}
 	CUSTOMER ||--o{ PRODUCT : purchases
 	SALE ||--o{ INVENTORY : decreases
-	INVENTORY ||--o{ PRODUCT : holds
+	INVENTORY ||--o{ PRODUCT : stores
 ```

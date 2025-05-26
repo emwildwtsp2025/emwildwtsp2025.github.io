@@ -19,9 +19,9 @@ erDiagram
 	}
 	INVENTORY ||--o{ PRODUCT : stores
 	INVENTORY {
-	string product PK
-	string amount
-	string origin
+	string product FK
+	string amount PK
+	string origin PK
 	}
 ```
 

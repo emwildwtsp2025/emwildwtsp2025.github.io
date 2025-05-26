@@ -10,5 +10,5 @@ erDiagram
 	PRODUCT ||--o{ CUSTOMER : ships
 	CUSTOMER ||--o{ PRODUCT : purchases
 	SALE ||--o{ INVENTORY : decreases
-	INVENTORY |--o{ PRODUCT : holds
+	INVENTORY ||--o{ PRODUCT : holds
 ```

@@ -1,5 +1,5 @@
 ```mermaid
-erdiagram
+erDiagram
 	PRODUCT ||--||{CUSTOMER : ships}
 	CUSTOMER ||--|{PRODUCT : purchases}
 	SALE ||--| {INVENTORY : decreases}
